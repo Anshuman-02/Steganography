@@ -20,3 +20,13 @@ The message is encrypted before embedding, ensuring data security.
 - 🖼️ **OpenCV (`cv2`)** - Image processing
 - 📂 **OS Module (`os`)** - File and system operations
 - 🔐 **XOR Encryption** - Encrypting secret messages before embedding
+
+---
+
+## 🚀 Installation & Usage
+### 1️⃣ Install Dependencies
+Make sure Python is installed. Then, install OpenCV:
+```bash
+pip install opencv-python
+
+
