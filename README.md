@@ -31,7 +31,7 @@ The message is encrypted before embedding, ensuring data security.
 
 2. Run the Encoder (Hiding Message)
    ```bash
-   python steganography.py
+   python encryption.py
   - Enter your secret message and password.
   - The modified image (mypicencrypted.png) will be saved in the project folder.
 
